@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is hosted on  [SuggestMeMovies](https://suggestmemovies.netlify.app/).
+This project is hosted on  [https://suggestmemovies.netlify.app/](https://suggestmemovies.netlify.app/).
 
 
 
